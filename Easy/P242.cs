@@ -2,6 +2,7 @@ namespace Easy;
 
 public class P242
 {
+    // https://leetcode.com/problems/valid-anagram/
     public static bool IsAnagram(string s, string t) {
         char[] ss = s.ToCharArray();
         char[] tt = t.ToCharArray();
