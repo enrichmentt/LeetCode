@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{9D4858
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium", "Medium\Medium.csproj", "{9C759807-BEF0-43AF-BEA5-A71BBA90BA28}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{08D8C89E-1059-4082-A51A-891A801CB4A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
